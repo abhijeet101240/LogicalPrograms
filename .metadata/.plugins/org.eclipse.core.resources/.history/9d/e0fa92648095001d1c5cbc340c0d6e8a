@@ -1,0 +1,33 @@
+package com.string;
+
+import java.util.Scanner;
+
+public class CountCharectors {
+	
+
+	public static int getCountChar(String str, String str1){
+	
+		int len=str.length();
+		str=""+str.toLowerCase();
+		
+		int count=0;
+		
+		for(int i=0; i<=len;i++) {
+		
+			if(str.equals(str1)) {
+				count++;
+			}
+			
+		}
+			
+		return count;
+	}
+	
+	
+	public static void main(String[] args) {
+		
+		Scanner sc=new Scanner(System.in);
+		
+	}
+
+}

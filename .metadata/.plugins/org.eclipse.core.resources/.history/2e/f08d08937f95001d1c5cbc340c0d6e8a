@@ -1,0 +1,15 @@
+package com.string;
+
+public class CountCharectors {
+	
+
+	public int getCountChar(String str, String str1){
+	
+		int len=str.length();
+		str=""+str.toLowerCase();
+		
+		
+		return 
+	}
+
+}

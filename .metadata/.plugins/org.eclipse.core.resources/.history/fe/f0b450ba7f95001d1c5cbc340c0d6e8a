@@ -1,0 +1,26 @@
+package com.string;
+
+public class CountCharectors {
+	
+
+	public int getCountChar(String str, String str1){
+	
+		int len=str.length();
+		str=""+str.toLowerCase();
+		
+		int count=0;
+		
+		for(int i=0; i<=len;i++) {
+		
+			if(str.equals(str1)) {
+				count++;
+			}
+			
+		}
+		
+		
+		
+		return 
+	}
+
+}

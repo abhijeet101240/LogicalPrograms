@@ -1,0 +1,10 @@
+package com.string;
+
+public class CountAlphabets {
+
+	
+	public static void main(String[] args) {
+		String str="i am the best";
+		
+	}
+}

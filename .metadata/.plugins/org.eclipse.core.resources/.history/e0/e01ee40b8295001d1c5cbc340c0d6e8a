@@ -1,0 +1,19 @@
+package com.array;
+
+import java.util.Scanner;
+
+public class MaximumNumber {
+	
+	public void getMaxNum(int i){
+		
+	}
+
+	
+	
+	
+	public static void main(String[] args) {
+			
+		int a[]= {9,8,4,5,10,7};
+		
+	}
+}

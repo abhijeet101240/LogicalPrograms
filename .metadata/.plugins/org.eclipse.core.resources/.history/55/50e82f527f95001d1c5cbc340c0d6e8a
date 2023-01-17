@@ -1,0 +1,10 @@
+package com.string;
+
+public class CountCharectors {
+	
+
+	public int getCountChar(String str, String str1){
+		return 
+	}
+
+}
