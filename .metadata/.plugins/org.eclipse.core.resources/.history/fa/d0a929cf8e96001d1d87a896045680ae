@@ -1,0 +1,17 @@
+package com.integ.programs;
+
+public class ReverseNumber {
+	
+	public void getReverseNumber(int n){
+		
+	}
+	
+	
+	public static void main(String[] args) {
+		
+	int no=12345;
+	
+	
+	}
+
+}
